@@ -1,0 +1,49 @@
+﻿@model HrHelper.Models.Application
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<h4>Job Application</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PostID" class="control-label">Post</label>
+                <select asp-for="PostID" class ="form-control" asp-items="ViewBag.PostID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="RecruitmentID" class="control-label">Recruitment Id</label>
+                <select asp-for="RecruitmentID" class ="form-control" asp-items="ViewBag.RecruitmentID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="CandidateID"  class="control-label">Candidate</label>
+                <select asp-for="CandidateID" class ="form-control" asp-items="ViewBag.CandidateID" disabled></select>
+            </div>
+            @*<div class="form-group">
+                <label asp-for="ApplicationTime" class="control-label"></label>
+                <input asp-for="ApplicationTime" class="form-control" />
+                <span asp-validation-for="ApplicationTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ApplicationStausID" class="control-label"></label>
+                <input asp-for="ApplicationStausID" class="form-control" />
+                <span asp-validation-for="ApplicationStausID" class="text-danger"></span>
+            </div>*@
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,23 @@
+﻿@using System.Security.Claims
+@{
+    var userEmail = User.FindFirstValue(ClaimTypes.Email);
+    bool isAuthenticated = false;
+    isAuthenticated = User.Identity.IsAuthenticated;
+    if (isAuthenticated)
+    {
+        if (userEmail != "admin@mail.com")
+        {
+            Layout = "_LayoutCandidate";
+        }
+        else
+        {
+            Layout = "_LayoutAdmin";
+        }
+    }
+    else
+    {
+        Layout = "_Layout";
+    }
+    
+    
+}

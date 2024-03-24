@@ -1,0 +1,90 @@
+﻿@model HrHelper.Models.Candidate
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Candidate</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CandidateName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CandidateName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Post)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Post.PostId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CandiateEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CandiateEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CandidatePhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CandidatePhone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HonsCGPA)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HonsCGPA)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MastersCGPA)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MastersCGPA)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Experience)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Experience)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.McqPercentage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.McqPercentage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.WrittenPercentage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.WrittenPercentage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VivaPercentage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VivaPercentage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FilePath)
+        </dt>
+        <dd class = "col-sm-10">
+            <a href="@Model.FilePath" download >Download Resume</a>
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.AiRecommendationScore)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.AiRecommendationScore)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.CandidateID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,264 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HrHelper
+build_property.RootNamespace = HrHelper
+build_property.ProjectDir = C:\UNIVERSITY OF GREENWICH\MSc Project\HrHelper\HrHelper\HrHelper\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\UNIVERSITY OF GREENWICH\MSc Project\HrHelper\HrHelper\HrHelper
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/ApplicationStatus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25TdGF0dXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/ApplicationStatus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25TdGF0dXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/ApplicationStatus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25TdGF0dXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/ApplicationStatus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25TdGF0dXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/ApplicationStatus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25TdGF0dXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Applications/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Applications/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Applications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Applications/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Applications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwbGljYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Candidates/AddInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xBZGRJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Candidates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Candidates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Candidates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Candidates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Candidates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Companies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Companies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Companies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Companies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/EmployeeTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVUeXBlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/EmployeeTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVUeXBlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/EmployeeTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVUeXBlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/EmployeeTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVUeXBlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/EmployeeTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVUeXBlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Groups/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Groups/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Groups/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Groups/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Groups/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvdXBzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Posts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Posts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Posts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Posts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Recruitments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdG1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Recruitments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdG1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Recruitments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdG1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Recruitments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdG1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Recruitments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjcnVpdG1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0mvyxeque9
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-cuppnk6poy
+
+[C:/UNIVERSITY OF GREENWICH/MSc Project/HrHelper/HrHelper/HrHelper/Views/Shared/_LayoutCandidate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDYW5kaWRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-c1p1u8kayh

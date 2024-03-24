@@ -1,0 +1,97 @@
+﻿@model IEnumerable<HrHelper.Models.Candidate>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>All Candidates</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CandidateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Post)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CandiateEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CandidatePhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HonsCGPA)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MastersCGPA)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Experience)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.McqPercentage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WrittenPercentage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VivaPercentage)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.AiRecommendationScore)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CandidateName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Post.PostId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CandiateEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CandidatePhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HonsCGPA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MastersCGPA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Experience)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.McqPercentage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WrittenPercentage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VivaPercentage)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.AiRecommendationScore)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CandidateID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CandidateID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CandidateID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

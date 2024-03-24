@@ -1,0 +1,82 @@
+﻿@model IEnumerable<HrHelper.Models.Recruitment>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List of Recruitments</h1>
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+
+            <label class="control-label col-md-2"> Search Recruitment</label>
+            <div class="col-md-3">
+                <input type="text" placeholder="Search Jobs" class="form-control" name="id"/>
+            </div>
+            <br/>
+            <div class="col-md-2">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+
+
+        </div>
+    
+
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Company)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Post)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobDescription)
+            </th>
+
+            <th>
+                @Html.DisplayNameFor(model => model.SrartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EndOfApplication)
+            </th>
+            
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Company.CompanyName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Post.PostName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.JobDescription)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.SrartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndOfApplication)
+            </td>
+            
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.RecruitmentID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.RecruitmentID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.RecruitmentID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
